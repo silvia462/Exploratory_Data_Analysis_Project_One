@@ -9,9 +9,9 @@ For this assignment you should:
 
 - Construct the plot and save it to a PNG file with a width of 480 pixels and a height of 480 pixels.
 
-- Name each of the plot files as `plot1.png` and `plot2.png`. 
+- Name each of the plot files as `plot1.png` and `plot2.png` etc. 
 
-- Create separate R code files, `plot1.R` and `plot2.R`. 
+- Create separate R code files, `plot1.R` and `plot2.R`etc. 
 
 - Constructs the corresponding plots. 
 
